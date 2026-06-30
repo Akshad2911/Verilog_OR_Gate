@@ -17,6 +17,15 @@ This repository contains the Verilog HDL implementation of a 2-input OR gate alo
 * `or_gate.v` – Verilog module implementing the OR gate.
 * `README.md` – Project documentation.
 
+### Logic Table
+
+|  A  |  B  |  Y  |
+| :-: | :-: | :-: |
+|  0  |  0  |  0  |
+|  0  |  1  |  0  |
+|  1  |  0  |  0  |
+|  1  |  1  |  1  |
+
 ### Applications
 
 * Digital logic design
